@@ -26,4 +26,6 @@ You can install using [conda install]
 [conda install]: https://anaconda.org/conda-forge/xgboost 
 
 ## Animation of pick up and drop off data
+y-axis -> Longitude,
+x-axis -> Latitude
 ![](https://github.com/JerinR/New-York-taxi-ride/blob/master/Animation/im.gif)
